@@ -40,3 +40,4 @@ C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\refi
 C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.pdb
 C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.genruntimeconfig.cache
 C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\ref\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.sourcelink.json
