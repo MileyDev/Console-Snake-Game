@@ -54,7 +54,7 @@ dotnet run
 Or compile and run the .exe from your terminal.
 
 📸 Screenshot
-![Preview]()
+![Preview](preview.JPG)
 
 📁 Project Structure
 cpp
