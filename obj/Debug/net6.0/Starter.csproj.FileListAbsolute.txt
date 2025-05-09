@@ -12,3 +12,31 @@ C:\Users\HP\Desktop\Challenge-project-Create-methods-in-CSharp-main\Challenge-pr
 C:\Users\HP\Desktop\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-MiniGame in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
 C:\Users\HP\Desktop\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-MiniGame in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
 C:\Users\HP\Desktop\Challenge-project-Create-methods-in-CSharp-main\Challenge-project-Create-MiniGame in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.pdb
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\bin\Debug\net6.0\Starter.exe
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\bin\Debug\net6.0\Starter.deps.json
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\bin\Debug\net6.0\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\bin\Debug\net6.0\Starter.pdb
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\Challenge-project-Create-MiniGame in-CSharp-main\MiniGame\obj\Debug\net6.0\ref\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\bin\Debug\net6.0\Starter.exe
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\bin\Debug\net6.0\Starter.deps.json
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\bin\Debug\net6.0\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\bin\Debug\net6.0\Starter.pdb
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.pdb
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\Users\HP\Desktop\MiniGame using custom methods\MiniGame\obj\Debug\net6.0\ref\Starter.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-MiniGame in-CSharp-main\\Starter\\Starter.csproj": {}
+    "C:\\Users\\HP\\Desktop\\MiniGame using custom methods\\MiniGame\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-MiniGame in-CSharp-main\\Starter\\Starter.csproj": {
+    "C:\\Users\\HP\\Desktop\\MiniGame using custom methods\\MiniGame\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-MiniGame in-CSharp-main\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\MiniGame using custom methods\\MiniGame\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-MiniGame in-CSharp-main\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\MiniGame using custom methods\\MiniGame\\Starter.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Challenge-project-Create-methods-in-CSharp-main\\Challenge-project-Create-MiniGame in-CSharp-main\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\MiniGame using custom methods\\MiniGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,10 +66,6 @@
               "version": "[6.0.36, 6.0.36]"
             },
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[6.0.36, 6.0.36]"
             },
@@ -78,15 +74,7 @@
               "version": "[6.0.36, 6.0.36]"
             },
             {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.36, 6.0.36]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
               "version": "[6.0.36, 6.0.36]"
             }
           ],
@@ -96,11 +84,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
