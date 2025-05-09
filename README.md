@@ -54,6 +54,7 @@ dotnet run
 Or compile and run the .exe from your terminal.
 
 📸 Screenshot
+![Preview](scre.jpg)
 
 📁 Project Structure
 cpp
@@ -65,4 +66,4 @@ cpp
 
 🧑‍💻 Author
 Micheal Sokoya (a.k.a. Miley)
-[GitHub](https://github.com/MileyDev) • [LinkedIn](https://linkedin.com/in/micheal-sokoya-0a8461361)
+[GitHub](https://github.com/MileyDev) • [LinkedIn](https://www.linkedin.com/in/micheal-sokoya-4a3307364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
